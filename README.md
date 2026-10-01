@@ -12,6 +12,10 @@ This project is a continulation of the work of Filip Filmar, who originally docu
 
 ## Objectives
 
+AMD/Xilinx has not provided any documentation on the WDB waveform dump format, which requires users to use Vivado to view waveform dumps. Historically, it was not possible to use open source viewers to view WDB files.
+
+## Goals
+
 1. Document the WDB format in a easily readable manner
 2. Create a parser in Rust and use wdbcvt to validate my parser
 3. Turn the code into a Rust crate that can be used in other projects
