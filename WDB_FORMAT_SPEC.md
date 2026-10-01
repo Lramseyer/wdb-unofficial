@@ -1,6 +1,6 @@
 # WDB Format Specification
 
-**Xilinx Waveform Database** — proprietary binary format produced by Vivado xsim (the Xilinx/AMD FPGA simulator). Written by `xsim` when you include `log_wave -r /` in the Tcl batch file; without that call the file contains only design metadata and no waveform data.
+**Xilinx Waveform Database** — undocumented binary format produced by Vivado xsim (the Xilinx/AMD FPGA simulator). Written by `xsim` when you include `log_wave -r /` in the Tcl batch file; without that call the file contains only design metadata and no waveform data.
 
 - **Extension**: `.wdb`
 - **Endianness**: little-endian throughout

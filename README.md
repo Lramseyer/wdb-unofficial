@@ -4,11 +4,11 @@
 
 This project is not affilited in any way with AMD/Xilinx. This project and all information in the documentation have been obtained by black-box fuzzing.
 
-This project is a continulation of the work of Filip Filmar, who originally documented the WDB format, and created the wdbcvt tool used to verify this library.
+This project is a continulation of the work of [@filmil](https://github.com/filmil), who originally documented the WDB format, and created the wdbcvt tool used to verify this library.
 
-- Paper on the documentation process: (https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf)[https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf]
-- Blog post: (https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/)[https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/]
-- WDB to FST converter: (https://github.com/filmil/wdbcvt)[https://github.com/filmil/wdbcvt]
+- Paper on the documentation process: [https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf](https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf)
+- Blog post: [https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/](https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/)
+- WDB to FST converter: [https://github.com/filmil/wdbcvt](https://github.com/filmil/wdbcvt)
 
 ## Objectives
 
