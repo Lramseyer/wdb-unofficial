@@ -9,6 +9,7 @@ This project is a continulation of the work of [@filmil](https://github.com/film
 - Paper on the documentation process: [https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf](https://www.hdlfactory.com/wdbcvt/wdbcvt-report.pdf)
 - Blog post: [https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/](https://www.hdlfactory.com/post/2026/09/04/wdbcvt-reading-vivado-wdb/)
 - WDB to FST converter: [https://github.com/filmil/wdbcvt](https://github.com/filmil/wdbcvt)
+- Corpus of WDB files and source RTL - see "wdbcvt-waveforms.tar.gz" [https://github.com/filmil/wdbcvt/releases](https://github.com/filmil/wdbcvt/releases) 
 
 ## Objectives
 
