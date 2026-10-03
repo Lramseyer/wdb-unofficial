@@ -1,0 +1,12 @@
+[package]
+name = "wdb-parser"
+version = "0.1.0"
+edition = "2021"
+description = "Parser for Xilinx/AMD Vivado WDB waveform database files"
+
+[dependencies]
+flate2 = "1"
+thiserror = "1"
+
+[dev-dependencies]
+fst-reader = "0.17"

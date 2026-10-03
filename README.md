@@ -17,6 +17,6 @@ AMD/Xilinx has not provided any documentation on the WDB waveform dump format, w
 
 ## Goals
 
-1. Document the WDB format in a easily readable manner
-2. Create a parser in Rust and use wdbcvt to validate my parser
-3. Turn the code into a Rust crate that can be used in other projects
+1. [x] Document the WDB format in a easily readable manner - Done!
+2. [ ] Create a parser in Rust and use wdbcvt to validate my parser - In Progress
+3. [ ] Turn the code into a Rust crate that can be used in other projects
